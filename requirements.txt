@@ -1,0 +1,4 @@
+lxml
+requests
+fake_useragent==0.1.11
+UserAgent==0.1.1
