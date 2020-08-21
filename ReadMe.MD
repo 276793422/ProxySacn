@@ -20,3 +20,9 @@
 # NemesisZoo
 QQ：276793422
 
+## 平台
+Windows
+
+## 版本
+Python3
+
